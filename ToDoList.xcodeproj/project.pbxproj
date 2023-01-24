@@ -30,6 +30,7 @@
 		526086802947F9A9004B3EA7 /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
 		52923EBD294FDD4D00F943F7 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
 		52A40E4B294A825F00C6BB6E /* ToDoDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoDetailTableViewController.swift; sourceTree = "<group>"; };
+		52E4AC722980750500F076AC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +47,7 @@
 		5260865C2947BD96004B3EA7 = {
 			isa = PBXGroup;
 			children = (
+				52E4AC722980750500F076AC /* README.md */,
 				526086672947BD96004B3EA7 /* ToDoList */,
 				526086662947BD96004B3EA7 /* Products */,
 			);
